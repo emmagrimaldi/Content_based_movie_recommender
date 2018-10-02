@@ -1,0 +1,1 @@
+In this notebook it is shown how to create a basic content-based movie recommender. The recommender system takes as input and recommend movies from the top 250 rated movies according to IMDB. Recommendations are generated according to Genre, Directors, Main Actors and Plot.
